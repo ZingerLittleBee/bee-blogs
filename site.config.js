@@ -1,7 +1,7 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
   rootNotionPageId:
-    'Bee-A-machine-for-making-bug-053cf0fe026245c99a73eb5d803bc191',
+    'xbee.notion.site/Bee-053cf0fe026245c99a73eb5d803bc191',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
